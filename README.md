@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/os-Linux-green" /> <img src="https://img.shields.io/badge/os-Windows-blue" /> <img src="https://img.shields.io/badge/release-v1.0.0-blue" /> <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-v10.5.0-red" /></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-v.18.17.1-brightgreen" /></a> <img src="https://img.shields.io/badge/license-MIT-blue" /> <img src="https://img.shields.io/badge/Electron-v2.0.2-cyan" />
+<img src="https://img.shields.io/badge/os-Linux-green" /> <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-v10.5.0-red" /></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-v.18.17.1-brightgreen" /></a> <img src="https://img.shields.io/badge/license-MIT-blue" /> <img src="https://img.shields.io/badge/Electron-v2.0.2-cyan" />
 
 TECHNOLOGIES USED:
 
@@ -14,45 +14,12 @@ TECHNOLOGIES USED:
 
 ### Features
 
-- [x] Design
-- [x] Functionalities
 - [x] Uploaded to Snap Store
-
-![thumbnail](https://github.com/renanmakoto/voice-recorder-app/assets/65373130/cf9d2526-8276-4f6f-9d09-1e1159e50813)
 
 
 </div>
 
 <p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
-
-
-
-<p>Follow the steps below in order to use it.</p>
-
-- Download the code by clicking on the green button "<> Code"
-
-- Click "Download ZIP"
-
-- Decompress the file
-
-- Open the folder using VSCode
-
-- Open the terminal and type "npm run dist" and it will create a folder inside the folder which you decompressed
-
-- Inside this folder, to run the app, you should open the "dist" folder normally, as if you were to open any other folder
-
-- You will see a file named "dotcorder.AppImage". Double click it and the app will open
-
-- Make sure to set where you want to audio files to be saved by checking the "Preferences" menu
-
-
-Another way to use the app is to simply download the zipped folder through the link below. This way, it will not be necessary to have the VSCode installed on your computer. You simply decompress it and run the app by clicking twice the "dotcorder.AppImage" file.
-
-https://www.mediafire.com/file/36p4jsx8weh8yry/voice-recorder.zip/file
-
-OBS: The link above is to download the Linux version of the app. Fo the windows version there's the link below:
-
-https://www.mediafire.com/file/iexbnczvfz3se8u/windows-voice-recorder.zip/file
 
 <br>
 
