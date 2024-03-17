@@ -9,9 +9,7 @@
 TECHNOLOGIES USED:
 
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png" /></a>
-
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
-
 <a href="https://www.electronjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" style="width: 64px; height: 64px;" /></a>
 
 
