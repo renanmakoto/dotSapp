@@ -4,8 +4,8 @@ const userAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, li
 
 function createWindow() {
     const win = new BrowserWindow({
-        width: 600,
-        height: 600,
+        width: 1000,
+        height: 800,
     })
     
     win.loadURL('https://web.whatsapp.com', { userAgent })
