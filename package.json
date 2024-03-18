@@ -12,9 +12,9 @@
   "author": "Renan Makoto",
   "license": "ISC",
   "build": {
-    "appId": "renanmakoto/com.github.dotwhatsapp",
+    "appId": "renanmakoto/com.github.dotsapp",
     "linux": {
-      "icon": "./assets/icons/logo.png"
+      "icon": "./assets/logo.png"
       }
   },
   "devDependencies": {
