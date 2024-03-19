@@ -14,7 +14,7 @@
   "build": {
     "appId": "renanmakoto/com.github.dotsapp",
     "linux": {
-      "icon": "./assets/logo.png"
+      "icon": "./assets/icons/icon.png"
       }
   },
   "devDependencies": {
@@ -23,3 +23,5 @@
     "electron-builder": "^23.6.0"
   }
 }
+
+
